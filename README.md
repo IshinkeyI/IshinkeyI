@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   
   [![wakatime](https://wakatime.com/badge/user/05e9d611-f72b-4ebb-a30c-1bdfd977bb8d.svg)](https://wakatime.com/@05e9d611-f72b-4ebb-a30c-1bdfd977bb8d)
 
-  [![codewars](https://www.codewars.com/users/ITatarinl/badges/large)](https://www.codewars.com/users/ITatarinl)
+  [![codewars](https://www.codewars.com/users/Shinkey/badges/large)](https://www.codewars.com/users/Shinkey)
 
   <img src="https://github-readme-stats.vercel.app/api?username=IshinkeyI&show_icons=true&theme=dark" alt="GitHub Stats" width="400"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshinkeyI&layout=compact&langs_count=5&theme=dark" alt="Top     Languages" width="304"/>
 
