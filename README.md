@@ -22,5 +22,8 @@ Here are some ideas to get you started:
   [![codewars](https://www.codewars.com/users/Shinkey/badges/large)](https://www.codewars.com/users/Shinkey)
 
   <img src="https://github-readme-stats.vercel.app/api?username=IshinkeyI&show_icons=true&theme=dark" alt="GitHub Stats" width="400"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshinkeyI&layout=compact&langs_count=5&theme=dark" alt="Top     Languages" width="304"/>
-
+  <a href="https://monkeytype.com/profile/shinkey">
+        <img src="https://raw.githubusercontent.com/IshinkeyI/IshinkeyI/monkeytype-readme/shinkey-monkeytype-readme-pb.svg" alt="My Monkeytype profile" />
+  </a>
 </div>
+
